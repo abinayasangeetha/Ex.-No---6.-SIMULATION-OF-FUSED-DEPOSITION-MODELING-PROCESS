@@ -21,8 +21,8 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/113594316/e05c97f8-b035-4e4d-86e8-f91a73aa95a8)
 
 ## Output:
-![6S](https://github.com/JEGADEESH07/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/113497131/a3ca37c6-7d75-4440-97cd-e6f9740b90dd)
 
+https://user-images.githubusercontent.com/119477782/241962742-fadc2d2c-65df-408d-bc38-e8d11f28030c.jpg
 ### Name: ABINAYA S
 ### Register Number: 212222230002
 
